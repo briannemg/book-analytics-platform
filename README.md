@@ -4,6 +4,25 @@ A full-stack personal data analytics project designed to transform denormalized 
 
 The goal of this project was to develop practical experience in SQL, database design, Python automation, and data analytics workflows while building a real-world analytics platform around multi-year reading history data.
 
+## Example Build Output
+
+```text
+================================================
+BUILD SUMMARY
+================================================
+
+Books imported:               138
+Authors created:             128
+Genres created:              17
+Moods created:               22
+
+Book-author relationships:   149
+Book-genre relationships:    152
+Book-mood relationships:     390
+
+Validation checks passed ✓
+```
+
 ---
 
 ## Tech Stack
