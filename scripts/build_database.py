@@ -195,7 +195,7 @@ def main():
         # Run transformation scripts
         # ----------------------------------------------------
         
-        print("\nRuning transformation pipeline...\n")
+        print("\nRunning transformation pipeline...\n")
         
         for filename in TRANSFORMATION_FILES:
             run_sql_file(conn, filename)

@@ -132,6 +132,6 @@ This project was designed to strengthen skills in:
 - Data modeling
 - ETL pipeline automation
 - Analytical SQL querying
-- Buisness intelligence workflows
+- Business intelligence workflows
 
 while demonstrating end-to-end analytics engineering practices on a real-world dataset.
