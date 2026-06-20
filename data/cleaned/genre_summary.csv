@@ -1,0 +1,14 @@
+genre_name,books,avg_rating,weighted_score
+Biography,2,4.0,2.0
+Classics,1,2.0,0.67
+Contemporary Fiction,7,3.57,2.78
+Dystopian Fiction,3,3.33,2.0
+Historical Fiction,64,3.98,3.86
+History,1,4.0,1.33
+Literary Fiction,2,4.0,2.0
+Memoir,13,4.15,3.6
+Middle Grade,26,3.0,2.79
+Other Nonfiction,14,3.07,2.69
+Parenting,2,1.5,0.75
+Politics & Society,1,3.0,1.0
+Young Adult,1,5.0,1.67
