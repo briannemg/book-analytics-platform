@@ -4,6 +4,14 @@ A full-stack personal data analytics project designed to transform denormalized 
 
 The goal of this project was to develop practical experience in SQL, database design, Python automation, and data analytics workflows while building a real-world analytics platform around multi-year reading history data.
 
+## Interactive Dashboard
+
+Final dashboard built in Tableau using SQL reporting views generated from the SQLite analytics database.
+
+![Reading Analytics Dashboard](tableau/screenshots/reading-analytics-dashboard.png)
+
+---
+
 ## Example Build Output
 
 ```text
@@ -32,7 +40,7 @@ Validation checks passed ✓
 - SQL
 - Pandas
 - Git / GitHub
-- Tableau (coming soon)
+- Tableau
 
 ---
 
@@ -51,7 +59,7 @@ SQL Analytical Queries
       ↓
 Tableau Reporting Views
       ↓
-Interactive Dashboard (coming soon)
+Interactive Tableau Dashboard
 ```
 
 ---
@@ -124,6 +132,20 @@ Includes:
 
 ---
 
+### Interactive Tableau Dashboard
+
+Built in Tableau to visualize reading behavior patterns and long-term trends.
+
+Dashboard includes:
+
+- Books read by year
+- Rating distribution analysis
+- Reading speed vs rating correlation
+- Books by acquisition source
+- Top genre analysis
+
+---
+
 ## Running the Project
 
 See:
@@ -136,10 +158,11 @@ docs/setup_and_execution.md
 
 ## Future Improvements
 
-- Interactive Tableau dashboard
-- Recommendation engine
-- Book trend forecasting
-- Expanded reading behavior analytics
+- Recommendation engine based on reading history
+- Book trend forecasting using predictive modeling
+- Advanced behavioral analytics (seasonality, pacing trends, reread behavior)
+- Interactive filtering and expanded dashboard functionality
+- Migration from SQLite to PostgreSQL
 
 ---
 
@@ -152,5 +175,6 @@ This project was designed to strengthen skills in:
 - ETL pipeline automation
 - Analytical SQL querying
 - Business intelligence workflows
+- Dashboard development
 
 while demonstrating end-to-end analytics engineering practices on a real-world dataset.
